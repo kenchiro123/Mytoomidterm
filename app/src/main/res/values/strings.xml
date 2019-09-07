@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">My ToDo2</string>
+    <string name="login">LOGIN</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="don_t_have_an_account_registor">Don\'t have an account ? Registor</string>
+    <string name="login_to_your_acccount">Login To Your Acccount</string>
+    <string name="login_success">Login success</string>
+    <string name="login_failed">Invalid email or password</string>
+
+</resources>

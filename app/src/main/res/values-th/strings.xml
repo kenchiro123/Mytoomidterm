@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My ToDo2</string>
+    <string name="don_t_have_an_account_registor">ยังไม่มีบัญชี? สมัครงาน</string>
+    <string name="email">อีเมล</string>
+    <string name="login">เข้าสู่ระบบ</string>
+    <string name="login_to_your_acccount">ลงชื่อเข้าสู่บัญชีของคุณ</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="login_success">เข้าสู่ระบบสำเร็จ</string>
+    <string name="login_failed">เข้าสู่ระบบไม่สำเร็จ</string>
+</resources>
